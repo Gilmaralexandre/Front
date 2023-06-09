@@ -1,4 +1,4 @@
-# Título do Projeto
+# Page de login da FlixPrime
 
 Projeto se baseia em realizar o acesso a Plataforma de streaming PrimeFlix.
 O objetivo era deixar a tela
